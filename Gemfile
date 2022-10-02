@@ -4,3 +4,5 @@ gemspec
 gem "jekyll", ">= 3.6.3"
 gem "html-proofer"
 gem 'coveralls', require: false
+
+gem "webrick", "~> 1.7"

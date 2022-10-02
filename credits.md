@@ -1,40 +1,19 @@
 ---
 layout: page
-title: Credits
+title: Professional Experience
 ---
-
-### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist
-
-Susanna teaches Digital Humanities in the Department of Latin American and Iberian Cultures. She earned her Ph.D in Romance Studies at the University of Barcelona in 2012, and completed a M.A. in «Nouvelles technologies appliquées à l’histoire» at the École Nationale des Chartes (Paris). She has taught at the University of Barcelona and she has been a postdoctoral fellow at the Spanish National Research Council (CSIC). Her research explores several aspects of digital humanities, especially, scholarly digital editions, electronic text analysis, intertextuality and text reuse, and digital lexicography. She also works with the intersection of the Iberian Peninsula and Italy in the Middle Ages and the Renaissance, reconstructing cultural and literary networks between the two.
-
-
-### [Terry Catapano](https://github.com/tcatapano) | Metadata ninja
-
-Terry Catapano is a Librarian in Columbia University Libraries' Digital Program Division. He was Chair of the Society of American Archivists' Schema Development Team, responsible for the development of Encoded Archival Description version 3, and is a member of the ArchivesSpace Technical Advisory Group and the Editorial Board for the Metadata Encoding and Transmission Standard (METS). As Vice President of Plazi Verein, he leads the development of the TaxPub extension of the National Library of Medicine/National Center for Biotechnology Information Journal Publishing DTD, and has worked on digitizing, text mining, and providing open access to the literature of biological systematics, including collaborations with WikiData, the Encylopedia of Life, the Global Biodiversity Information Facility (GBIF), ZooBank, and CERN. 
-
-### [Alex Gil](http://www.elotroalex.com/) | Resident minimalist
- 
-Alex is the Digital Scholarship Coordinator for the Humanities and History at Columbia University. He is vice chair of the [Global Outlook::Digital Humanities](http://www.globaloutlookdh.org/) initiative focusing on minimal computing and translation, is one of the founders and directors of [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/) and the [Studio@Butler](https://studio.cul.columbia.edu/), and is actively engaged in several digital humanities projects at Columbia and around the world.
-
-### [Johann Gillium](https://github.com/JohannGillium) | Search master
-
-After having studied digital humanities at the Ecole nationale des Chartes in Paris, Johann has worked in France as a librarian at the Bibliothèque interuniversaire de Santé, where he most notably contributed to the [Vesalius project](http://www3.biusante.parisdescartes.fr/vesale/debut.htm), the digital edition of several works by the great anatomist Andreas Vesalius.
 
 
 ---
 
-## Acknowledgments
+While pursuing research and education, I have also developed skills in web development, higher education, and technology evaluation. In particular, I have experience developing websites with languages such as PHP, teaching computer science through languages such as Python, and evaluating the accessibility and privacy of technologies according to given metrics.
 
-As many open source projects, Ed is the work of community. The project starts with the open web, and everything in between leading to [Jekyll](https://jekyllrb.com/) and the wonderful team who wrangled that Ruby in our favor. The theme stylesheets are built on top of [Lanyon](https://github.com/poole/lanyon), a Jekyll theme based on [Poole](http://getpoole.com), "the Jekyll butler," both created by [Mark Otto](https://github.com/mdo) and distributed with an MIT license. Thanks, Mark, for your helpful streamlining! Special hat tips to brother-in-markdown-arms, [Chris Forster](https://github.com/c-forster), and the generous [Sylvester Keil](https://github.com/inukshuk/) for his work on Jekyll Scholar.
+As a Privacy Policy Evaluator with [Common Sense Media](https://www.commonsensemedia.org/)’s [Privacy Program](https://privacy.commonsense.org/), I perform quantitative evaluations of legal policies and publish qualitative, written summaries to the program’s website. 
 
+During my tenure as a doctoral student, I have taught the undergraduate Python computing course Computational Reasoning I over a number of semesters. In the summer of 2019, I was the course’s primary instructor for 15 graduate and undergraduate students who were completely new to coding. As the instructor, I implemented a project-based curriculum that included interactive game design and data storytelling. 
 
-We are strongly indebted to the research work and conversations stemming out of our [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/)—or as we like to call it: #xpmethod; the wonderful international comradery of [GO::DH](http://www.globaloutlookdh.org/); and of course, the support of our [Columbia University Libraries](http://library.columbia.edu/) and its cozy [Studio@Butler](https://studio.cul.columbia.edu/).
+To design and administer this curriculum, I drew on my experience teaching Python to undergraduates as a graduate teaching assistant for same course, as well as teaching Python to middle school students in a [Girls Who Code club](https://girlswhocode.com/) I co-founded with the [Tuscaloosa Public Library](https://www.tuscaloosa-library.org/).
 
-...and to the writers that inspire us to scribble notes on the margins we protect with our work. Thank you.
+As an undergraduate in 2017, I joined the University of Alabama’s brand-new [Technology Accessibility Initiative](https://accessibility.ua.edu/) as an accessibility evaluator. As part of this ambitious project to audit and and improve the accessibility of university websites according to [WCAG 2.0 guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/), I personally performed over 100 manual and automated accessibility audits and organized resources to track our group’s progress. 
 
-
-
-
-
-
-
+This led me to subsequent opportunities through the University of Alabama’s [Office of Information Technology](https://oit.ua.edu/), where I was hired as a student web developer by their Office of Multimedia Services to design and update websites and later by [Housing and Residential Communities](https://housing.sa.ua.edu/) on a special project to develop a work order submission form. To develop this updated form, I implemented Laravel, PHP, and XAMPP database tools and managed the project end-to-end.
